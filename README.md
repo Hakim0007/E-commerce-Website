@@ -1,6 +1,6 @@
-# E-commerce-Website Project Setup Guide
+# E-commerce Website Project Setup Guide
 
-This guide will walk you through setting up the PHP CMS project on your local machine using XAMPP.
+This guide will walk you through setting up the E-commerce project on your local machine using XAMPP.
 
 ## Prerequisites
 
@@ -16,7 +16,7 @@ This guide will walk you through setting up the PHP CMS project on your local ma
    - Follow the installation instructions.
 
 2. **Extract the Project**:
-   - Extract the downloaded project folder (e.g., `E-commerce-Website.zip`) into the `htdocs` directory located in your XAMPP installation folder (typically `C:\xampp\htdocs`).
+   - Extract the downloaded project folder (e.g., `E-commerce Website.zip`) into the `htdocs` directory located in your XAMPP installation folder (typically `C:\xampp\htdocs`).
 
 ### 2. Start XAMPP
 
@@ -40,7 +40,7 @@ This guide will walk you through setting up the PHP CMS project on your local ma
    - Under **File to import**, click **Choose File** and select the `.sql` file located in the `database` folder of the project directory.
    - Click **Go** to import the SQL file into the newly created database.
 
-### 4. Access the CMS
+### 4. Access the E-commerce Website
 
 1. **Access the Project**:
    - Once the database is set up, you can access the project by opening your web browser and navigating to: http://localhost/E-commerce-Website/index.php
